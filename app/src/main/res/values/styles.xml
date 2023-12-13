@@ -1,0 +1,37 @@
+<resources>
+
+    <style name="Widget.Theme.SneakersApp.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="Content" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#1C1C1C</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PriceText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FA5A27</item>
+    </style>
+
+    <style name="ProductName" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#201E1E</item>
+    </style>
+
+    <style name="GeneralText" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#2B2A2A</item>
+    </style>
+
+    <style name="TextOptions" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#222020</item>
+    </style>
+</resources>

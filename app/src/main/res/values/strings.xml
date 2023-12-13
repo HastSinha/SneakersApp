@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">SneakersApp</string>
+    <!--    Bottom navigation-->
+    <string name="text_cart">Cart</string>
+    <string name="text_home">Home</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text_sheakership">SNEAKERSHIP</string>
+    <string name="text_product">Product</string>
+    <string name="text_new_product_desc">This is a new product in the market.</string>
+    <string name="text_size">Size(uk): </string>
+    <string name="text_color">Color :</string>
+    <string name="text_price">Price: </string>
+    <string name="text_number_7">7</string>
+    <string name="text_number_8">8</string>
+    <string name="text_number_9">9</string>
+    <string name="text_add_to_cart">Add to Cart</string>
+    <string name="text_product_added_to_cart">Product Added to Cart</string>
+    <string name="text_checkout">Checkout</string>
+    <string name="text_color_selected">Color %s Selected</string>
+    <string name="text_size_selected">Size %d Selected</string>
+    <string name="text_order_details">Order Details </string>
+    <string name="text_subtotal">Sub Total: </string>
+    <string name="text_tax_and_charges">Taxes and Charges: </string>
+    <string name="text_total">Total: </string>
+    <string name="text_verified_product">Verified Product</string>
 </resources>
